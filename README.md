@@ -100,9 +100,33 @@ require('unicode-5.0.0/properties/Diacritic/code-points');
 require('unicode-5.0.0/properties/Diacritic/symbols');
 require('unicode-5.0.0/properties/Diacritic/regex');
 
+require('unicode-5.0.0/properties/Expands_On_NFC/code-points');
+require('unicode-5.0.0/properties/Expands_On_NFC/symbols');
+require('unicode-5.0.0/properties/Expands_On_NFC/regex');
+
+require('unicode-5.0.0/properties/Expands_On_NFD/code-points');
+require('unicode-5.0.0/properties/Expands_On_NFD/symbols');
+require('unicode-5.0.0/properties/Expands_On_NFD/regex');
+
+require('unicode-5.0.0/properties/Expands_On_NFKC/code-points');
+require('unicode-5.0.0/properties/Expands_On_NFKC/symbols');
+require('unicode-5.0.0/properties/Expands_On_NFKC/regex');
+
+require('unicode-5.0.0/properties/Expands_On_NFKD/code-points');
+require('unicode-5.0.0/properties/Expands_On_NFKD/symbols');
+require('unicode-5.0.0/properties/Expands_On_NFKD/regex');
+
 require('unicode-5.0.0/properties/Extender/code-points');
 require('unicode-5.0.0/properties/Extender/symbols');
 require('unicode-5.0.0/properties/Extender/regex');
+
+require('unicode-5.0.0/properties/FC_NFKC_Closure/code-points');
+require('unicode-5.0.0/properties/FC_NFKC_Closure/symbols');
+require('unicode-5.0.0/properties/FC_NFKC_Closure/regex');
+
+require('unicode-5.0.0/properties/Full_Composition_Exclusion/code-points');
+require('unicode-5.0.0/properties/Full_Composition_Exclusion/symbols');
+require('unicode-5.0.0/properties/Full_Composition_Exclusion/regex');
 
 require('unicode-5.0.0/properties/Grapheme_Base/code-points');
 require('unicode-5.0.0/properties/Grapheme_Base/symbols');
