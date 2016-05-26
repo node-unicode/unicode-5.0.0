@@ -84,6 +84,10 @@ require('unicode-5.0.0/properties/Bidi_Mirrored/code-points');
 require('unicode-5.0.0/properties/Bidi_Mirrored/symbols');
 require('unicode-5.0.0/properties/Bidi_Mirrored/regex');
 
+require('unicode-5.0.0/properties/Composition_Exclusion/code-points');
+require('unicode-5.0.0/properties/Composition_Exclusion/symbols');
+require('unicode-5.0.0/properties/Composition_Exclusion/regex');
+
 require('unicode-5.0.0/properties/Dash/code-points');
 require('unicode-5.0.0/properties/Dash/symbols');
 require('unicode-5.0.0/properties/Dash/regex');
