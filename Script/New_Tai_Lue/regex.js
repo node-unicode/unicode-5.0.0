@@ -1,1 +1,0 @@
-module.exports=/[\u1980-\u19A9\u19B0-\u19C9\u19D0-\u19D9\u19DE\u19DF]/

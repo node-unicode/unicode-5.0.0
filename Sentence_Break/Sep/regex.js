@@ -1,1 +1,0 @@
-module.exports=/[\n\r\x85\u2028\u2029]/
